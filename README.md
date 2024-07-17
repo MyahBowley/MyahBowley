@@ -1,5 +1,6 @@
-> Hello, I’m @MyahBowley
-> I’m currently learning JavaScript
+Hello, I’m @MyahBowley
+
+I’m currently learning JavaScript
 
 <!---
 MyahBowley/MyahBowley is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
