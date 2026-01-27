@@ -1,6 +1,6 @@
 Hello, I’m @MyahBowley
 
-I’m currently learning Python for my IT Programming course at NSCC! I'm also learning JavaScript on my own on the side!
+I’m currently in an IT Programming course at NSCC! I'm proficient in Python, HTML & CSS, and JavaScript. I am currently learning Assembly, C, and Java.
 
 <!---
 MyahBowley/MyahBowley is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
